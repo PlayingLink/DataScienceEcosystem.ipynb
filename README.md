@@ -25,3 +25,4 @@ Some of the commonly used libraries used by Data Scientists include:
 
 ### Below are a few examples of evaluating arithmetic expressions in Python
 
+(3*4)+5
