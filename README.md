@@ -15,3 +15,13 @@ Some of the commonly used libraries used by Data Scientists include:
 3. Plotly
 
 
+| Data Science Tools|
+|-------------------|
+| Apache Spark|
+| RStudio|
+| NumPy|
+
+
+
+### Below are a few examples of evaluating arithmetic expressions in Python
+
